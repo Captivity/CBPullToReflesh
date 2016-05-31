@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CBReflesh.xcscheme</key>
+		<key>PullToReflesh.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>1C90041A1C7AD25F00C2A7DB</key>
+		<key>2CBE3D5C1CFDEE2400052A70</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1C9004311C7AD25F00C2A7DB</key>
+		<key>2CBE3D701CFDEE2400052A70</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1C90043C1C7AD25F00C2A7DB</key>
+		<key>2CBE3D7B1CFDEE2400052A70</key>
 		<dict>
 			<key>primary</key>
 			<true/>

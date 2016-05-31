@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1C90041A1C7AD25F00C2A7DB"
-               BuildableName = "CBReflesh.app"
-               BlueprintName = "CBReflesh"
-               ReferencedContainer = "container:CBReflesh.xcodeproj">
+               BlueprintIdentifier = "2CBE3D5C1CFDEE2400052A70"
+               BuildableName = "PullToReflesh.app"
+               BlueprintName = "PullToReflesh"
+               ReferencedContainer = "container:PullToReflesh.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1C9004311C7AD25F00C2A7DB"
-               BuildableName = "CBRefleshTests.xctest"
-               BlueprintName = "CBRefleshTests"
-               ReferencedContainer = "container:CBReflesh.xcodeproj">
+               BlueprintIdentifier = "2CBE3D701CFDEE2400052A70"
+               BuildableName = "PullToRefleshTests.xctest"
+               BlueprintName = "PullToRefleshTests"
+               ReferencedContainer = "container:PullToReflesh.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1C90043C1C7AD25F00C2A7DB"
-               BuildableName = "CBRefleshUITests.xctest"
-               BlueprintName = "CBRefleshUITests"
-               ReferencedContainer = "container:CBReflesh.xcodeproj">
+               BlueprintIdentifier = "2CBE3D7B1CFDEE2400052A70"
+               BuildableName = "PullToRefleshUITests.xctest"
+               BlueprintName = "PullToRefleshUITests"
+               ReferencedContainer = "container:PullToReflesh.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1C90041A1C7AD25F00C2A7DB"
-            BuildableName = "CBReflesh.app"
-            BlueprintName = "CBReflesh"
-            ReferencedContainer = "container:CBReflesh.xcodeproj">
+            BlueprintIdentifier = "2CBE3D5C1CFDEE2400052A70"
+            BuildableName = "PullToReflesh.app"
+            BlueprintName = "PullToReflesh"
+            ReferencedContainer = "container:PullToReflesh.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1C90041A1C7AD25F00C2A7DB"
-            BuildableName = "CBReflesh.app"
-            BlueprintName = "CBReflesh"
-            ReferencedContainer = "container:CBReflesh.xcodeproj">
+            BlueprintIdentifier = "2CBE3D5C1CFDEE2400052A70"
+            BuildableName = "PullToReflesh.app"
+            BlueprintName = "PullToReflesh"
+            ReferencedContainer = "container:PullToReflesh.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1C90041A1C7AD25F00C2A7DB"
-            BuildableName = "CBReflesh.app"
-            BlueprintName = "CBReflesh"
-            ReferencedContainer = "container:CBReflesh.xcodeproj">
+            BlueprintIdentifier = "2CBE3D5C1CFDEE2400052A70"
+            BuildableName = "PullToReflesh.app"
+            BlueprintName = "PullToReflesh"
+            ReferencedContainer = "container:PullToReflesh.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

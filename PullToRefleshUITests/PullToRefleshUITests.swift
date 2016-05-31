@@ -1,14 +1,14 @@
 //
-//  CBRefleshUITests.swift
-//  CBRefleshUITests
+//  PullToRefleshUITests.swift
+//  PullToRefleshUITests
 //
-//  Created by 陈超邦 on 16/2/22.
-//  Copyright © 2016年 ChenChaobang. All rights reserved.
+//  Created by 陈超邦 on 16/6/1.
+//  Copyright © 2016年 陈超邦. All rights reserved.
 //
 
 import XCTest
 
-class CBRefleshUITests: XCTestCase {
+class PullToRefleshUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
