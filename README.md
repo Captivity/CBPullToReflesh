@@ -1,4 +1,4 @@
-#pullToReflesh
+#PullToReflesh
 
 <center>![](https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif "Demo GIF Animation")</center>
 
