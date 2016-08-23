@@ -1,10 +1,10 @@
 
 <center>![](https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif "Demo GIF Animation")</center>
 
+#CBPullToReflesh
+
 [![Build Status](https://travis-ci.org/cbangchen/CBPullToReflesh.svg?branch=master.png)](https://travis-ci.
 org/xianlinbox/iOSCIDemo)[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)   
-
-#CBPullToReflesh
 
 **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)
 
