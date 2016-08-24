@@ -1,3 +1,3 @@
 language: objective-c
-xcode_project: CBPullToReflesh.xcodeproj 
+xcode_project: CBPullToRefleshDemo.xcodeproj 
 xcode_scheme: CBPullToRefleshDemoTests
