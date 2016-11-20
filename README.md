@@ -7,6 +7,8 @@
 
 **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)
 
+/.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [详细讲解](https://github.com/cbangchen/CBPullToReflesh/wiki) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<./
+
 ## Usage
 
 ### Wrap your scrollView
