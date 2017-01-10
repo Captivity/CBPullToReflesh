@@ -3,11 +3,7 @@
 
 #CBPullToReflesh
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)    
-
-**Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)
-
-> 点击 [此处](https://github.com/cbangchen/CBPullToReflesh/wiki) 查看详细教程
+> **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)，点击 [此处](https://github.com/cbangchen/CBPullToReflesh/wiki) 查看详细教程
 
 ## Usage
 
