@@ -1,12 +1,10 @@
-<p align='center'>
-  <img src='https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif'>
-</p>
-
 <p>
   <img src='https://ww2.sinaimg.cn/large/006y8lVagw1fblmfrhb5oj30m505k0t4.jpg'>
 </p>
 
-#CBPullToReflesh
+<p align='center'>
+  <img src='https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif'>
+</p>
 
 > **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)，点击 [此处](https://github.com/cbangchen/CBPullToReflesh/wiki) 查看详细教程
 
