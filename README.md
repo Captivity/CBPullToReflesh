@@ -7,7 +7,7 @@
 
 **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)
 
-> /.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [详细讲解](https://github.com/cbangchen/CBPullToReflesh/wiki) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<./
+> 点击 [此处](https://github.com/cbangchen/CBPullToReflesh/wiki) 查看详细教程
 
 ## Usage
 
