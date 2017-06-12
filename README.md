@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif" width="500" height="500"/>
+<p align="center">  <img src="https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif" width="700" height="500"/>
 </p>
 
 # CBPullToReflesh
