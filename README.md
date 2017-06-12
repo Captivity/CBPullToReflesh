@@ -1,8 +1,7 @@
-<p align="center">
-  <img src='https://ww2.sinaimg.cn/large/006y8lVagw1fblmfrhb5oj30m505k0t4.jpg' width="1000" height="300">
-  <img src="https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif" width="500" height="500"/>
+<p align="center">  <img src="https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif" width="500" height="500"/>
 </p>
 
+# CBPullToReflesh
 
 [![Cbangchen](https://img.shields.io/badge/cbangchen-iOS-yellow.svg)](http://cbangchen.com)
 [![Version](https://img.shields.io/cocoapods/v/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh)
