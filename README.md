@@ -3,10 +3,10 @@
 
 # CBPullToReflesh
 
-[![Cbangchen](https://img.shields.io/badge/cbangchen-iOS-yellow.svg)](http://cbangchen.com)
-[![Version](https://img.shields.io/cocoapods/v/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh)
-[![License](https://img.shields.io/cocoapods/l/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh)
-[![Platform](https://img.shields.io/cocoapods/p/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh)
+[![Cbangchen](https://img.shields.io/badge/cbangchen-iOS-yellow.svg)](http://cbangchen.com) 
+[![Version](https://img.shields.io/cocoapods/v/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh) 
+[![License](https://img.shields.io/cocoapods/l/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh) 
+[![Platform](https://img.shields.io/cocoapods/p/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh) 
 
 > **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)，点击 [此处](https://github.com/cbangchen/CBPullToReflesh/wiki) 查看详细教程
 
