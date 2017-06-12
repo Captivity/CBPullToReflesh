@@ -2,6 +2,7 @@
   <img src='https://d13yacurqjgara.cloudfront.net/users/141880/screenshots/2542648/dailyui-094.gif'>
   <img src='https://ww2.sinaimg.cn/large/006y8lVagw1fblmfrhb5oj30m505k0t4.jpg'>
   
+
 [![Cbangchen](https://img.shields.io/badge/cbangchen-iOS-yellow.svg)](http://cbangchen.com)
 [![Version](https://img.shields.io/cocoapods/v/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh)
 [![License](https://img.shields.io/cocoapods/l/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh)
@@ -21,8 +22,9 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod "CBPullToReflesh"
-```
-Don't forget to specify you Swift version.
+``` 
+
+Don't forget to specify you Swift version. 
 
 ```ruby
 post_install do |installer|
@@ -32,7 +34,7 @@ post_install do |installer|
     end
   end
 end
-```
+``` 
 
 ## Usage
 
