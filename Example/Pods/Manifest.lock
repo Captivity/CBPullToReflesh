@@ -1,0 +1,16 @@
+PODS:
+  - CBPullToReflesh (1.0.0)
+
+DEPENDENCIES:
+  - CBPullToReflesh (from `../`)
+
+EXTERNAL SOURCES:
+  CBPullToReflesh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CBPullToReflesh: 3c4cace3c46e83bedf03a90dfdf5c01b2da250c1
+
+PODFILE CHECKSUM: 77f94fdfb4a3802ed4b710875e26041214c0a815
+
+COCOAPODS: 1.2.1
