@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/cocoapods/l/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh) 
 [![Platform](https://img.shields.io/cocoapods/p/CBPullToReflesh.svg?style=flat)](http://cocoapods.org/pods/CBPullToReflesh) 
 
-> **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)，点击 [此处](https://github.com/cbangchen/CBPullToReflesh/wiki) 查看详细教程
+> **Dribbble**网址：[Daily-UI-094-News](https://dribbble.com/shots/2542648-Daily-UI-094-News)，点击 [此处](http://cbangchen.com/notes/%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%BE%88%E7%BE%8E) 查看详细教程
 
 ## Requirements 
 
